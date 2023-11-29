@@ -1,4 +1,4 @@
-# DirectML Extension for Automatic 1111's SD WebUI
+# DirectML Extension for Automatic1111's SD WebUI
 
 This extension enables optimized execution of base Stable Diffusion models on Windows. Because DirectML runs across hardware, this means users can expect performance speed-ups on a broad range of accelerator hardware.
 
